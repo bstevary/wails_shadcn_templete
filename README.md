@@ -2,7 +2,7 @@
 
 ## About
 
-This is the official Wails React-TS template.
+This is the  Wails Shadcn template.
 
 You can configure the project by editing `wails.json`. More information about the project settings can be found
 here: https://wails.io/docs/reference/project-config
@@ -17,3 +17,5 @@ to this in your browser, and you can call your Go code from devtools.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+
+### feel free to use this as astarting poit to buld amazing app.
